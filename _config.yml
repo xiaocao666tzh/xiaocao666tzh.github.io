@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 草の博客
+subtitle: '一个小白的博客'
+description: '一个小白的博客'
 keywords:
-author: John Doe
+author: Xcao
 language: zh-CN
 timezone: ''
 
