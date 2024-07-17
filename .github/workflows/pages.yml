@@ -30,7 +30,7 @@ jobs:
       - name: Install Dependencies
         run: npm install && npm install hexo-renderer-ejs
       - name: Build
-        run: npm run build
+        run: hexo clean && npm run build
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
