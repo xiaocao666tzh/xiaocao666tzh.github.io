@@ -2,7 +2,7 @@
 title: 自用小主机（软路由）方案（硬件）
 date: 2024-11-19 16:20:00
 updated: 2024-11-19 16:20:00
-categories: 硬件
+categories: Router
 tags:
     - 硬件
     - 小主机
