@@ -1,5 +1,5 @@
 ---
-title: Infini Card，或许是无须KYC的开卡费最低的U卡(含AFF) 
+title: (已失效) Infini Card，或许是无须KYC的开卡费最低的U卡(含AFF)
 date: 2025-01-29 18:13:00
 categories: Crypto
 tags:
@@ -8,6 +8,8 @@ tags:
   - 信用卡
   - AFF
 ---
+
+**2026.06.12更新：慢讯，Infini已经不再提供信用卡服务，变为 Infini Wallet，不再面向个人用户使用。**
 **注意：本文为推荐产品，含有AFF，不喜勿进。**
 Infini Card是这两天乱逛的时候看到的。
 ## 先上AFF
