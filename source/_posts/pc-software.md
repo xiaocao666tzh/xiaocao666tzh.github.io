@@ -1,7 +1,7 @@
 ---
 title: 我在用的电脑软件
 date: 2026-06-10 23:21:00
-updated: 2026-06-12 15:49:00
+updated: 2026-06-14 06:55:00
 categories: kepu
 tags: 
     - 科普
@@ -162,9 +162,14 @@ tags:
 ### Epic
 - https://store.epicgames.com/
 - 我的E宝！
+
 ### 原神
 - https://www.yuanshen.com/
 - 不说了，原神，启动！
+
+### BetterGI
+- https://www.bettergi.com/
+- 一个辅助玩原神的工具，可以自动拾取自动刷本等。
 
 ## 外网必备类
 
@@ -192,9 +197,17 @@ tags:
 - https://pan.baidu.com/
 - 当年百盘大战的胜利者。
 
+### 荣耀超级工作台
+- https://www.honor.com/cn/tech/honor-workstation/
+- 因为我是荣耀手机，部分时候荣耀手机与电脑互联要使用。
+
 ## 其他类别
 **这类别与我个人强相关，大部分软件对其他人可能无用**
 
 ### SeeMusic
 - https://www.seemusicapp.com/
 - 制作特效钢琴的软件。
+
+### Lingoes
+- http://www.lingoes.net/
+- 好用的词典软件，但很久没有更新了。建议搭配牛津词典和柯林斯词典使用。 https://pan.baidu.com/share/init?surl=8tUyaPa9zVAS7e4AjZaJgA 提取码：li3r 
